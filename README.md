@@ -7,7 +7,8 @@ Hands-on cybersecurity lab featuring pfSense network segmentation, Splunk, and W
 
 <h1>Windows Client DHCP configuration</h1>
 
-<img width="1196" height="548" alt="Screenshot 2026-07-24 050332" src="https://github.com/user-attachments/assets/8e3c7bce-a019-4a9a-9d67-27ba2e04ed41" />
+<img width="842" height="608" alt="Screenshot 2026-09-27 162521" src="https://github.com/user-attachments/assets/743e79de-0984-480f-8b31-532ba73cc1ce" />
+
 
 <h1>Connectivity Test</h1>
 
